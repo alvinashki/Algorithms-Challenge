@@ -41,4 +41,5 @@ func arrayChallenge(arr []int) bool {
 func main() {
 	fmt.Println(arrayChallenge([]int{3, 5, -1, 8, 12}))
 	fmt.Println(arrayChallenge([]int{7, 3, 9, 6, 5, 19}))
+	fmt.Println(arrayChallenge([]int{1,0,6,3,20,7,3,9}))
 }
